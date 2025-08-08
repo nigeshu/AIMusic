@@ -1,1 +1,1 @@
-# AIMusic
+# Music AI - CZ005
